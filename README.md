@@ -3,8 +3,8 @@ This is simple Arduino Temperature and Humidity monitor using a big ST7920 displ
 
 # Parts Needed
 
-* Arduino Uno ▶
-* DHT22 Temperature and Humidity Sensor ▶
-* ST7920 LCD Display 128x64 Pixels ▶
-* Breadboard ▶
-* Wires ▶
+* Arduino Uno ▶ http://educ8s.tv/part/ArduinoUno
+* DHT22 Temperature and Humidity Sensor ▶ http://educ8s.tv/part/DHT22
+* ST7920 LCD Display 128x64 Pixels ▶ http://educ8s.tv/part/ST7920
+* Breadboard ▶ http://educ8s.tv/part/SmallBreadboard
+* Wires ▶ http://educ8s.tv/part/Wires
