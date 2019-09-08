@@ -27,7 +27,6 @@ void loop() {
   do {   
     draw();
   } while( u8g2.nextPage() );
- 
 }
   
 void draw(){
@@ -43,7 +42,6 @@ void draw(){
   u8g2.drawUTF8(70, 28, DEGREE_SYMBOL);
   u8g2.drawUTF8(76, 28, "C");
 
-
   u8g2.drawStr(30,46, "Humidity");         
   u8g2.drawStr( 37, 61, humidity); 
   u8g2.drawStr(75,61, "%");  
@@ -54,7 +52,6 @@ void readTemperature()
   float t = dht.readTemperature();
   dtostrf(t, 3, 1, temperature);
 }
-
 
 void readHumidity()
 {
