@@ -5,7 +5,7 @@ This is simple Arduino Temperature and Humidity monitor using a big ST7920 displ
   <img src="preview.jpg" alt="Running Sketch" width="640">
 </p>
 
-# Watch the video here: https://www.youtube.com/watch?v=GsrugNJ2JXU
+Watch the video here: https://www.youtube.com/watch?v=GsrugNJ2JXU
 
 # Parts Needed
 * Arduino Uno ▶ http://educ8s.tv/part/ArduinoUno
