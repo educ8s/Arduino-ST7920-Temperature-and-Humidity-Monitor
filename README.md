@@ -20,9 +20,3 @@ Watch the video here: https://www.youtube.com/watch?v=GsrugNJ2JXU
 
 
 💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
-
-# Schematic
-
-<p align="center">
-  <img src="SchematicST7920.png" alt="Schematic Diagram" width="640">
-</p>
