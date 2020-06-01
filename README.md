@@ -18,6 +18,9 @@ Watch the video here: https://www.youtube.com/watch?v=GsrugNJ2JXU
 
 🛒 Wires ▶               http://educ8s.tv/part/Wires
 
+
+💖 Full disclosure: All of the links above are affiliate links. I get a small percentage of each sale they generate. Thank you for your support!
+
 # Schematic
 
 <p align="center">
